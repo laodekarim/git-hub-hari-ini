@@ -1,0 +1,27 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+marquee img{
+    padding-top: 150px;
+}
+
+#wrapper{
+    width: 950px;
+    height:700px;
+    background-image: url(sinchan\ rumah.jpeg);
+}
+body{
+        
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.imagel{
+
+    margin-top: 80px;
+}
+#matahari{
+    margin-top: -40px;
+}
